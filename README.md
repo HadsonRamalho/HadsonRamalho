@@ -1,16 +1,22 @@
-### Hi there 👋
+## 💚 Yo!</strong>
 
-<!--
-**HadsonRamalho/HadsonRamalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Dev backend e tal, arrumo isso aqui depois :)
 
-Here are some ideas to get you started:
+🔭 Brincando com Rust, C++ e Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills e tal
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/cpp-programming-569564.png](https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=256" alt="cpp"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+---
+
+## ⭐ Coisos do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadsonRamalho&show_icons=true)
