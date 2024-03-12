@@ -1,12 +1,12 @@
 ## 💚 Yo!</strong>
 
-> Dev backend e tal, arrumo isso aqui depois :)
+> Dev focando no back-end, ainda tô arrumando isso aqui :)
 
-🔭 Brincando com Rust, C++ e Python
+🔭 Explorando Rust, C++ e Python
 
 ---
 
-## 🚀 Skills e tal
+## 🚀 Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/cpp-programming-569564.png](https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=256" alt="cpp"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
@@ -17,6 +17,6 @@
 
 ---
 
-## ⭐ Coisos do GitHub
+## ⭐ Stats do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadsonRamalho&show_icons=true&theme=vue-dark)
