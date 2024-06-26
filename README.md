@@ -1,8 +1,8 @@
 ## 💚 Yo!</strong>
 
-> Dev focando no back-end, ainda tô arrumando isso aqui :)
+> Dev Backend 
 
-🔭 Explorando Rust, C++ e Python
+🔭 Trabalhando com Rust, C++ e Python
 
 ---
 
