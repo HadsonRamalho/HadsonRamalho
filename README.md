@@ -2,7 +2,7 @@
 
 > Dev Backend 
 
-🔭 Trabalhando com Rust, C++ e Python
+🔭 Trabalhando com Rust e C++!
 
 ---
 
