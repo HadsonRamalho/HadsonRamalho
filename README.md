@@ -1,10 +1,3 @@
-## 🤠 Yo!</strong>
-
-> Dev Backend 
-
-🔭 Trabalhando com Rust e C++!
-
----
 
 ## 🚀 Skills
 
