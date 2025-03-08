@@ -61,5 +61,5 @@ jobs:
           plugin_steam_playtime_threshold: 3
           plugin_steam_recent_games_limit: 3
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198842651880
+          plugin_steam_user: "76561198842651880"
           repositories_batch: 100
