@@ -55,6 +55,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 3
           plugin_steam_games_limit: 3
           plugin_steam_playtime_threshold: 3
