@@ -44,7 +44,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: PHP, Makefile, php, makefile
-          plugin_languages_limit: 8
+          plugin_languages_limit: 25
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
